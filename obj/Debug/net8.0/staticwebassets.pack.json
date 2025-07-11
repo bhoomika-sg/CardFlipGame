@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Bhoomika\\OneDrive\\Desktop\\c# miniproj\\MemoryCardGame\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Bhoomika\\OneDrive\\Desktop\\c# miniproj\\MemoryCardGame\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Bhoomika\\OneDrive\\Desktop\\c# miniproj\\MemoryCardGame\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MemoryCardGame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MemoryCardGame.props",
+      "PackagePath": "build\\MemoryCardGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MemoryCardGame.props",
+      "PackagePath": "buildMultiTargeting\\MemoryCardGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MemoryCardGame.props",
+      "PackagePath": "buildTransitive\\MemoryCardGame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

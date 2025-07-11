@@ -1,0 +1,6 @@
+@MemoryCardGame_HostAddress = http://localhost:5262
+
+GET {{MemoryCardGame_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
