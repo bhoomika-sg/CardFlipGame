@@ -32,3 +32,4 @@ C:\Users\Bhoomika\OneDrive\Desktop\c# miniproj\MemoryCardGame\obj\Debug\net8.0\r
 C:\Users\Bhoomika\OneDrive\Desktop\c# miniproj\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.pdb
 C:\Users\Bhoomika\OneDrive\Desktop\c# miniproj\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.genruntimeconfig.cache
 C:\Users\Bhoomika\OneDrive\Desktop\c# miniproj\MemoryCardGame\obj\Debug\net8.0\ref\MemoryCardGame.dll
+C:\Users\Bhoomika\OneDrive\Desktop\c# miniproj\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.sourcelink.json
